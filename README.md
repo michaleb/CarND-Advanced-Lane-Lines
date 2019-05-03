@@ -13,13 +13,13 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: Advanced-Lane-Finding/output_images/distorted_and_undistort_chess.png "Distorted & Undistorted Chessboard image"
-[image2]: Advanced-Lane-Finding/output_images/undistorted_and_warped_test_image.jpg "Road Transformed"
-[image3]: Advanced-Lane-Finding/output_images/binary_combined.png "Binary Example"
-[image4]: Advanced-Lane-Finding/output_images/undistorted_and_warped_test_image.jpg "Warp Example"
-[image5]: Advanced-Lane-Finding/output_images/fitted_poly.jpg "Fit Visual"
-[image6]: Advanced-Lane-Finding/output_images/painted_lane.jpg "Output"
-[video1]: Advanced-Lane-Finding/output_images/project_video.mp4 "Video"
+[image1]: ./output_images/distorted_and_undistort_chess.png "Distorted & Undistorted Chessboard image"
+[image2]: ./output_images/undistorted_and_warped_test_image.jpg "Road Transformed"
+[image3]: ./output_images/binary_combined.png "Binary Example"
+[image4]: ./output_images/undistorted_and_warped_test_image.jpg "Warp Example"
+[image5]: ./output_images/fitted_poly.jpg "Fit Visual"
+[image6]: ./output_images/painted_lane.jpg "Output"
+[video1]: ./output_images/project_video.mp4 "Video"
 
               
 ---
