@@ -14,11 +14,11 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./output_images/distorted_and_undistort_chess.png "Distorted & Undistorted Chessboard image"
-[image2]: ./output_images/undistorted_and_warped_test_image.jpg "Road Transformed"
+[image2]: ./output_images/undistorted_and_warped_test_image.png "Road Transformed"
 [image3]: ./output_images/binary_combined.png "Binary Example"
-[image4]: ./output_images/undistorted_and_warped_test_image.jpg "Warp Example"
-[image5]: ./output_images/fitted_poly.jpg "Fit Visual"
-[image6]: ./output_images/painted_lane.jpg "Output"
+[image4]: ./output_images/undistorted_and_warped_test_image.png "Warp Example"
+[image5]: ./output_images/fitted_poly.png "Fit Visual"
+[image6]: ./output_images/painted_lane.png "Output"
 [video1]: ./output_images/project_video.mp4 "Video"
 
               
@@ -89,7 +89,7 @@ The radius of curvature and offset are calculated in section 9 of the IPython no
 
 #### Painted lane
 
-I implemented this step in section 10 of the IPython notebook in the function `fill_lane()`.  Here is an example of my result on a test image:
+I implemented this step in section 10 of the Python code in the function `fill_lane()`.  Here is an example of my result on a test image:
 
 ![alt text][image6]
 
