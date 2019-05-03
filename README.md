@@ -99,7 +99,7 @@ I implemented this step in section 10 of the Python code in the function `fill_l
 
 #### Pipeline video output
 
-Here's a [link to my video result](Advanced-Lane-Finding/output_images/project_video.mp4)
+Here's a [link to my video result](/output_images/project_video.mp4)
 
 ---
 
